@@ -1,6 +1,5 @@
 {
   "execution": true,
-  "timer": true,
-  "time": 1757462340,
-  "message_server": "Chora Vendedor!!!"
+  "timer": false,
+  "message_server": "Chora Vendedor RSRS"
 }
